@@ -20,6 +20,12 @@
   <img src="https://img.shields.io/badge/LOCATION-TAMIL%20NADU%2C%20INDIA-3B82F6?style=for-the-badge&labelColor=0D0D0D"/>
 </p>
 
+<p align="center">
+  <a href="https://github.com/vishwajith2402/vishwajith2402/raw/main/assets/Vishwajith_P_Resume.pdf.pdf">
+    <img src="https://img.shields.io/badge/📄%20DOWNLOAD%20RESUME-6D28D9?style=for-the-badge&labelColor=0D0D0D&logo=readdotcv&logoColor=22D3EE"/>
+  </a>
+</p>
+
 ---
 
 <!-- ================= ABOUT ME ================= -->
