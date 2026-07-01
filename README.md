@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- ================= HERO ================= -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:6D28D9,100:22D3EE&height=260&section=header&text=Hey,%20I'm%20Vishwajith%20👋&fontSize=46&fontColor=22D3EE&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20in%20the%20Making%20%7C%20Data%20Analyst%20%7C%20Data%20Scientist&descAlignY=58&descSize=18&descColor=E5E7EB"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:6D28D9,100:22D3EE&height=260&section=header&text=Hey%2C%20I%20Am%20Vishwajith&fontSize=46&fontColor=22D3EE&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20in%20the%20Making%20%7C%20Data%20Analyst%20%7C%20Data%20Scientist&descAlignY=58&descSize=18&descColor=E5E7EB"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=760&lines=B.E.+CSE+(AI+%26+ML)+%40+K+Ramakrishnan+College+of+Technology;Aspiring+Data+Analyst+%7C+Data+Scientist;Turning+Data+Into+Decisions%2C+One+Model+at+a+Time;Currently+Juggling+5+Parallel+Internships+%F0%9F%9A%80;Open+to+Big4+%26+Top+Tech+Opportunities" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=760&lines=B.E.+CSE+%28AI+%26+ML%29+%40+K+Ramakrishnan+College+of+Technology;Aspiring+Data+Analyst+%7C+Data+Scientist;Turning+Data+Into+Decisions%2C+One+Model+at+a+Time;Currently+Juggling+5+Parallel+Internships;Open+to+Big4+%26+Top+Tech+Opportunities" />
 </a>
 
 </div>
