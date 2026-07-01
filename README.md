@@ -15,6 +15,10 @@
 </p>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-6D28D9?style=for-the-badge&labelColor=0D0D0D"/>
   <img src="https://img.shields.io/badge/FOCUS-AI%20%2F%20ML%20%2F%20DATA-22D3EE?style=for-the-badge&labelColor=0D0D0D"/>
   <img src="https://img.shields.io/badge/LOCATION-TAMIL%20NADU%2C%20INDIA-3B82F6?style=for-the-badge&labelColor=0D0D0D"/>
@@ -48,6 +52,10 @@ mission: "Build models and systems that turn raw data into real decisions."
 - ⚡ Fun fact: I treat every internship deliverable as a shipped product, not a checkbox
 
 ---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:6D28D9&height=3&width=1000"/>
+</p>
 
 <!-- ================= TECH STACK ================= -->
 ### 🛠️ Tech Arsenal
@@ -104,6 +112,10 @@ mission: "Build models and systems that turn raw data into real decisions."
 - 💼 Continuously polishing an **ATS-optimized resume** and a **glassmorphism portfolio site**
 
 ---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:22D3EE&height=3&width=1000"/>
+</p>
 
 ### 💎 Featured Projects
 
