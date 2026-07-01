@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/vishwajith2402/vishwajith2402/main/Vishwajith_P_Resume.pdf.pdf">
+  <a href="https://github.com/vishwajith2402/vishwajith2402/master/Vishwajith_P_Resume.pdf.pdf">
     <img src="https://img.shields.io/badge/📄%20DOWNLOAD%20RESUME-6D28D9?style=for-the-badge&labelColor=0D0D0D&logo=readdotcv&logoColor=22D3EE"/>
   </a>
 </p>
